@@ -1,0 +1,2 @@
+class ParnetToChild < ApplicationRecord
+end
